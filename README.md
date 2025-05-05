@@ -1,1 +1,1 @@
-# TP-Manchine-Learning
+# TP-Machine-Learning
